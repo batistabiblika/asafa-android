@@ -1,4 +1,4 @@
-# Application Asafa Android App
+# Application android Asafa Hira
 Application asafa miainga amin'ilay version tononkira, natao tsotra sy mora ampiasaina.
 Ireo tononkira dia nalaina avy tamin'ny "Asafa 2 boky"
 
